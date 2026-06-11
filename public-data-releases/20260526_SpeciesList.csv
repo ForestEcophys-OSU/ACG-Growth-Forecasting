@@ -1,0 +1,119 @@
+Sp_code.ORIG,genus.ORIG,species.ORIG,spec.name.ORIG,family,genus,specificEpithet,scientificName,scientificNameAuthorship,Old.status,taxonomicStatus,New.accepted,Sp_code
+Ast gra,Astronium,graveolens,Astronium graveolens,Anacardiaceae,Astronium,graveolens,Astronium graveolens,Jacq.,NA,Accepted,FALSE,Ast gra
+Spo mom,Spondias,mombin,Spondias mombin,Anacardiaceae,Spondias,mombin,Spondias mombin,L.,NA,Accepted,FALSE,Spo mom
+Spo pur,Spondias,purpurea,Spondias purpurea,Anacardiaceae,Spondias,purpurea,Spondias purpurea,L.,NA,Accepted,FALSE,Spo pur
+Ann pur,Annona,purpurea,Annona purpurea,Annonaceae,Annona,purpurea,Annona purpurea,Moc. & Sessé ex Dunal,NA,Accepted,FALSE,Ann pur
+Ann ret,Annona,reticulata,Annona reticulata,Annonaceae,Annona,reticulata,Annona reticulata,L.,NA,Accepted,FALSE,Ann ret
+Sap pal,Sapranthus,palanga,Sapranthus palanga,Annonaceae,Sapranthus,palanga,Sapranthus palanga,R.E.Fr.,NA,Accepted,FALSE,Sap pal
+The ova,Thevetia,ovata,Thevetia ovata,Apocynaceae,Cascabela,ovata,Cascabela ovata,(Cav.) Lippold,Synonym,Accepted,TRUE,Cas ova
+Ste obo,Stemmadenia,obovata,Stemmadenia obovata,Apocynaceae,Tabernaemontana,glabra,Tabernaemontana glabra,(Benth.) A.O.Simões & M.E.Endress,Synonym,Accepted,TRUE,Tab gla
+Sci exc,Sciadodendron,excelsum,Sciadodendron excelsum,Araliaceae,Aralia,excelsa,Aralia excelsa,(Griseb.) J.Wen,Synonym,Accepted,TRUE,Ara exc
+Acr acu,Acrocomia,aculeata,Acrocomia aculeata,Arecaceae,Acrocomia,aculeata,Acrocomia aculeata,(Jacq.) Lodd. ex Mart.,NA,Accepted,FALSE,Acr acu
+Per gra,Perymenium,grande,Perymenium grande,Asteraceae,Perymenium,grande,Perymenium grande,Hemsl.,NA,Accepted,FALSE,Per gra
+Cre ala,Crescentia,alata,Crescentia alata,Bignoniaceae,Crescentia,alata,Crescentia alata,Kunth,NA,Accepted,FALSE,Cre ala
+God aes,Godmania,aesculifolia,Godmania aesculifolia,Bignoniaceae,Godmania,aesculifolia,Godmania aesculifolia,(Kunth) Standl.,NA,Accepted,FALSE,God aes
+Tab imp,Tabebuia,impetiginosa,Tabebuia impetiginosa,Bignoniaceae,Handroanthus,impetiginosus,Handroanthus impetiginosus,(Mart. ex DC.) Mattos,Synonym,Accepted,TRUE,Han imp
+Tab och,Tabebuia,ochracea,Tabebuia ochracea,Bignoniaceae,Handroanthus,ochraceus,Handroanthus ochraceus,(Cham.) Mattos,Synonym,Accepted,TRUE,Han och
+Tab ros,Tabebuia,rosea,Tabebuia rosea,Bignoniaceae,Tabebuia,rosea,Tabebuia rosea,(Bertol.) DC.,NA,Accepted,FALSE,Tab ros
+Coc vit,Cochlospermum,vitifolium,Cochlospermum vitifolium,Bixaceae,Cochlospermum,vitifolium,Cochlospermum vitifolium,(Willd.) Spreng.,NA,Accepted,FALSE,Coc vit
+Bur sim,Bursera,simaruba,Bursera simaruba,Burseraceae,Bursera,simaruba,Bursera simaruba,(L.) Sarg.,NA,Accepted,FALSE,Bur sim
+Bur tom,Bursera,tomentosa,Bursera tomentosa,Burseraceae,Bursera,tomentosa,Bursera tomentosa,(Jacq.) Triana & Planch.,NA,Accepted,FALSE,Bur tom
+Tre mic,Trema,micrantha,Trema micrantha,Cannabaceae,Trema,micranthum,Trema micranthum,(L.) Blume,NA,Accepted,FALSE,Tre mic
+Cra tap,Crataeva,tapia,Crataeva tapia,Capparaceae,Crateva,tapia,Crateva tapia,L.,NA,Accepted,FALSE,Cra tap
+Cap ind,Capparis,indica,Capparis indica,Capparaceae,Morisonia,indica,Morisonia indica,(L.) ined.,Synonym,Accepted,TRUE,Mor ind
+May seg,Maytenus,segoviarum,Maytenus segoviarum,Celastraceae,Maytenus,segoviarum,Maytenus segoviarum,Standl. & L.O.Williams,NA,Accepted,FALSE,May seg
+Sem mex,Semialarium,mexicanum,Semialarium mexicanum,Celastraceae,Semialarium,mexicanum,Semialarium mexicanum,(Miers) Mennega,NA,Accepted,FALSE,Sem mex
+Hyr rac,Hyrtella,racemosa,Hyrtella racemosa,Chrysobalanaceae,Hirtella,racemosa,Hirtella racemosa,Lam.,NA,Accepted,FALSE,Hir rac
+Lic arb,Licania,arborea,Licania arborea,Chrysobalanaceae,Microdesmia,arborea,Microdesmia arborea,(Seem.) Sothers & Prance,Synonym,Accepted,TRUE,Mic arb
+Cor all,Cordia,alliodora,Cordia alliodora,Cordiaceae,Cordia,alliodora,Cordia alliodora,(Ruiz & Pav.) Oken,NA,Accepted,FALSE,Cor all
+Cor col,Cordia,collococca,Cordia collococca,Cordiaceae,Cordia,collococca,Cordia collococca,L.,NA,Accepted,FALSE,Cor col
+Cor den,Cordia,dentata,Cordia dentata,Cordiaceae,Cordia,dentata,Cordia dentata,Poir.,NA,Accepted,FALSE,Cor den
+Cor pan,Cordia,panamensis,Cordia panamensis,Cordiaceae,Cordia,panamensis,Cordia panamensis,L.Riley,NA,Accepted,FALSE,Cor pan
+Cur ame,Curatella,americana,Curatella americana,Dilleniaceae,Curatella,americana,Curatella americana,L.,NA,Accepted,FALSE,Cur ame
+Dio nic,Diospyros,nicaraguensis,Diospyros nicaraguensis,Ebenaceae,Diospyros,acapulcensis,Diospyros acapulcensis subsp. nicaraguensis,"(Standl.) Provance, I.García & A.C.Sanders",Synonym,Accepted,TRUE,Dio aca
+Dio sal,Diospyros,salicifolia,Diospyros salicifolia,Ebenaceae,Diospyros,salicifolia,Diospyros salicifolia,Humb. & Bonpl. ex Willd.,NA,Accepted,FALSE,Dio sal
+Slo ter,Sloanea,terniflora,Sloanea terniflora,Elaeocarpaceae,Sloanea,terniflora,Sloanea terniflora,(Moc. & Sessé ex DC.) Standl.,NA,Accepted,FALSE,Slo ter
+Eup sch,Euphorbia,schlechtendalii,Euphorbia schlechtendalii,Euphorbiaceae,Euphorbia,schlechtendalii,Euphorbia schlechtendalii,Boiss.,NA,Accepted,FALSE,Eup sch
+Mab occ,Mabea,occidentalis,Mabea occidentalis,Euphorbiaceae,Mabea,occidentalis,Mabea occidentalis,Benth.,NA,Accepted,FALSE,Mab occ
+Sap gla,Sapium,glandulosum,Sapium glandulosum,Euphorbiaceae,Sapium,glandulosum,Sapium glandulosum,(L.) Morong,NA,Accepted,FALSE,Sap gla
+Seb pav,Sebastiania,pavoniana,Sebastiania pavoniana,Euphorbiaceae,Sebastiania,pavoniana,Sebastiania pavoniana,(Müll.Arg.) Müll.Arg.,NA,Accepted,FALSE,Seb pav
+Ate her,Ateleia,herbert-smithii,Ateleia herbert-smithii,Fabaceae,Ateleia,herbert-smithii,Ateleia herbert-smithii,Pittier,NA,Accepted,FALSE,Ate her
+Bau ung,Bauhinia,ungulata,Bauhinia ungulata,Fabaceae,Bauhinia,ungulata,Bauhinia ungulata,L.,NA,Accepted,FALSE,Bau ung
+Chl man,Chloroleucon,mangense,Chloroleucon mangense,Fabaceae,Chloroleucon,mangense,Chloroleucon mangense,(Jacq.) Britton & Rose,NA,Accepted,FALSE,Chl man
+Dal ret,Dalbergia,retusa,Dalbergia retusa,Fabaceae,Dalbergia,retusa,Dalbergia retusa,Hemsl.,NA,Accepted,FALSE,Dal ret
+Dip ame,Diphysa,americana,Diphysa americana,Fabaceae,Diphysa,americana,Diphysa americana,(Mill.) M.Sousa,NA,Accepted,FALSE,Dip ame
+Ent cyc,Enterolobium,cyclocarpum,Enterolobium cyclocarpum,Fabaceae,Enterolobium,cyclocarpum,Enterolobium cyclocarpum,(Jacq.) Griseb.,NA,Accepted,FALSE,Ent cyc
+Gli sep,Gliricidia,sepium,Gliricidia sepium,Fabaceae,Gliricidia,sepium,Gliricidia sepium,(Jacq.) Kunth,NA,Accepted,FALSE,Gli sep
+Hae bra,Haematoxylon,brasiletto,Haematoxylon brasiletto,Fabaceae,Haematoxylum,brasiletto,Haematoxylum brasiletto,H.Karst.,Synonym,Accepted,TRUE,Hae bra
+Aco pan,Acosmium,panamense,Acosmium panamense,Fabaceae,Leptolobium,panamense,Leptolobium panamense,(Benth.) Sch.Rodr. & A.M.G.Azevedo,Synonym,Accepted,TRUE,Lep pan
+Lon fel,Lonchocarpus,felipei,Lonchocarpus felipei,Fabaceae,Lonchocarpus,felipei,Lonchocarpus felipei,N.Zamora,NA,Accepted,FALSE,Lon fel
+Lon min,Lonchocarpus,minimiflorus,Lonchocarpus minimiflorus,Fabaceae,Lonchocarpus,minimiflorus,Lonchocarpus minimiflorus,Donn.Sm.,NA,Accepted,FALSE,Lon min
+Lon rug,Lonchocarpus,rugosus,Lonchocarpus rugosus,Fabaceae,Lonchocarpus,rugosus,Lonchocarpus rugosus,Benth.,NA,Accepted,FALSE,Lon rug
+Lys div,Lysiloma,divaricatum,Lysiloma divaricatum,Fabaceae,Lysiloma,divaricatum,Lysiloma divaricatum,(Jacq.) J.F.Macbr.,NA,Accepted,FALSE,Lys div
+Mac bio,Machaerium,biovulatum,Machaerium biovulatum,Fabaceae,Machaerium,biovulatum,Machaerium biovulatum,Micheli,NA,Accepted,FALSE,Mac bio
+Pis car,Piscidia,carthagenensis,Piscidia carthagenensis,Fabaceae,Piscidia,carthagenensis,Piscidia carthagenensis,Jacq.,NA,Accepted,FALSE,Pis car
+Pit dul,Pithecellobium,dulce,Pithecellobium dulce,Fabaceae,Pithecellobium,dulce,Pithecellobium dulce,(Roxb.) Benth.,NA,Accepted,FALSE,Pit dul
+Alb nio,Albizia,niopoides,Albizia niopoides,Fabaceae,Pseudalbizzia,niopoides,Pseudalbizzia niopoides,(Spruce ex Benth.) E.J.M.Koenen & Duno,Synonym,Accepted,TRUE,Pse nio
+Pte ror,Pterocarpus,rohrii,Pterocarpus rohrii,Fabaceae,Pterocarpus,rohrii,Pterocarpus rohrii,Vahl,NA,Accepted,FALSE,Pte roh
+Swa cub,Swartzia,cubensis,Swartzia cubensis,Fabaceae,Swartzia,cubensis,Swartzia cubensis,(Britton & P.Wilson) Standl.,NA,Accepted,FALSE,Swa cub
+Aca col,Acacia,collinsii,Acacia collinsii,Fabaceae,Vachellia,collinsii,Vachellia collinsii,(Saff.) Seigler & Ebinger,Synonym,Accepted,TRUE,Vac col
+Aca cor,Acacia,cornigera,Acacia cornigera,Fabaceae,Vachellia,cornigera,Vachellia cornigera,(L.) Seigler & Ebinger,Synonym,Accepted,TRUE,Vac cor
+Que ole,Quercus,oleoides,Quercus oleoides,Fagaceae,Quercus,oleoides,Quercus oleoides,Schltdl. & Cham.,NA,Accepted,FALSE,Que ole
+Oco ver,Ocotea,veraguensis,Ocotea veraguensis,Lauraceae,Mespilodaphne,veraguensis,Mespilodaphne veraguensis,(Meisn.) Rohwer,Synonym,Accepted,TRUE,Mes ver
+Byr cra,Byrsonima,crassifolia,Byrsonima crassifolia,Malpighiaceae,Byrsonima,crassifolia,Byrsonima crassifolia,(L.) Kunth,NA,Accepted,FALSE,Byr cra
+Mal gla,Malpighia,glabra,Malpighia glabra,Malpighiaceae,Malpighia,glabra,Malpighia glabra,L.,NA,Accepted,FALSE,Mal gla
+Ape tib,Apeiba,tibourbou,Apeiba tibourbou,Malvaceae,Apeiba,tibourbou,Apeiba tibourbou,Aubl.,NA,Accepted,FALSE,Ape tib
+Bom qui,Bombacopsis,quinata,Bombacopsis quinata,Malvaceae,Bombax,ceiba,Bombax ceiba,L.,Synonym,Accepted,TRUE,Bom cei
+Gua ulm,Guazuma,ulmifolia,Guazuma ulmifolia,Malvaceae,Guazuma,ulmifolia,Guazuma ulmifolia,Lam.,NA,Accepted,FALSE,Gua ulm
+Lue can,Luehea,candida,Luehea candida,Malvaceae,Luehea,candida,Luehea candida,(Moc. & Sessé ex DC.) Mart.,NA,Accepted,FALSE,Lue can
+Lue spe,Luehea,speciosa,Luehea speciosa,Malvaceae,Luehea,speciosa,Luehea speciosa,Willd.,NA,Accepted,FALSE,Lue spe
+Ste ape,Sterculia,apetala,Sterculia apetala,Malvaceae,Sterculia,apetala,Sterculia apetala,(Jacq.) H.Karst.,NA,Accepted,FALSE,Ste ape
+Mic arg,Miconia,argentea,Miconia argentea,Melastomataceae,Miconia,argentea,Miconia argentea,(Sw.) DC.,NA,Accepted,FALSE,Mic arg
+Mou myr,Mouriri,myrtilloides,Mouriri myrtilloides,Melastomataceae,Mouriri,myrtilloides,Mouriri myrtilloides,Poir.,NA,Accepted,FALSE,Mou myr
+Ced odo,Cedrela,odorata,Cedrela odorata,Meliaceae,Cedrela,odorata,Cedrela odorata,L.,NA,Accepted,FALSE,Ced odo
+Gua gla,Guarea,glabra,Guarea glabra,Meliaceae,Guarea,glabra,Guarea glabra,Vahl,NA,Accepted,FALSE,Gua gla
+Swi mac,Swietenia,macrophylla,Swietenia macrophylla,Meliaceae,Swietenia,macrophylla,Swietenia macrophylla,King,NA,Accepted,FALSE,Swi mac
+Tri gla,Trichilia,glabra,Trichilia glabra,Meliaceae,Trichilia,glabra,Trichilia glabra,L.,NA,Accepted,FALSE,Tri gla
+Tri tri,Trichilia,trifolia,Trichilia trifolia,Meliaceae,Trichilia,trifolia,Trichilia trifolia,L.,NA,Accepted,FALSE,Tri tri
+Tri spp,Trichilia,NA,Trichilia,Meliaceae,Trichilia,NA,Trichilia,P.Browne,NA,Accepted,FALSE,Tri spp
+Bro ali,Brosimum,alicastrum,Brosimum alicastrum,Moraceae,Brosimum,alicastrum,Brosimum alicastrum,Sw.,NA,Accepted,FALSE,Bro ali
+Cas ela,Castilla,elastica,Castilla elastica,Moraceae,Castilla,elastica,Castilla elastica,Cerv.,NA,Accepted,FALSE,Cas ela
+Fic ova,Ficus,ovalis,Ficus ovalis,Moraceae,Ficus,crassinervia,Ficus crassinervia,Desf.,Synonym,Accepted,TRUE,Fic cra
+Fic spp,Ficus,NA,Ficus,Moraceae,Ficus,NA,Ficus,L.,NA,Accepted,FALSE,Fic spp
+Mac tin,Maclura,tinctoria,Maclura tinctoria,Moraceae,Maclura,tinctoria,Maclura tinctoria,(L.) D.Don ex G.Don,NA,Accepted,FALSE,Mac tin
+Eug cap,Eugenia,capuli,Eugenia capuli,Myrtaceae,Eugenia,capuli,Eugenia capuli,(Schltdl. & Cham.) Hook. & Arn.,NA,Accepted,FALSE,Eug cap
+Eug mon,Eugenia,monticola,Eugenia monticola,Myrtaceae,Eugenia,monticola,Eugenia monticola,(Sw.) DC.,NA,Accepted,FALSE,Eug mon
+Eug sal,Eugenia,salamensis,Eugenia salamensis,Myrtaceae,Eugenia,salamensis,Eugenia salamensis,Donn.Sm.,NA,Accepted,FALSE,Eug sal
+Psi gua,Psidium,guajava,Psidium guajava,Myrtaceae,Psidium,guajava,Psidium guajava,L.,NA,Accepted,FALSE,Psi gua
+Pis acu,Pisonia,aculeata,Pisonia aculeata,Nyctaginaceae,Pisonia,aculeata,Pisonia aculeata,L.,NA,Accepted,FALSE,Pis acu
+Alv amo,Alvaradoa,amorphoides,Alvaradoa amorphoides,Picramniaceae,Alvaradoa,amorphoides,Alvaradoa amorphoides,Liebm.,NA,Accepted,FALSE,Alv amo
+Coc car,Coccoloba,caracasana,Coccoloba caracasana,Polygonaceae,Coccoloba,caracasana,Coccoloba caracasana,Meisn.,NA,Accepted,FALSE,Coc car
+Tri mel,Triplaris,melaenodendron,Triplaris melaenodendron,Polygonaceae,Triplaris,melaenodendron,Triplaris melaenodendron,(Bertol.) Standl. & Steyerm.,NA,Accepted,FALSE,Tri mel
+Ard rev,Ardisia,revoluta,Ardisia revoluta,Primulaceae,Ardisia,revoluta,Ardisia revoluta,Kunth,NA,Accepted,FALSE,Ard rev
+Jac ner,Jacquinia,nervosa,Jacquinia nervosa,Primulaceae,Bonellia,nervosa,Bonellia nervosa,(C.Presl) B.Ståhl & Källersjö,Synonym,Accepted,TRUE,Bon ner
+Kar cal,Karwinskia,calderonii,Karwinskia calderonii,Rhamnaceae,Karwinskia,calderonii,Karwinskia calderonii,Standl.,NA,Accepted,FALSE,Kar cal
+Ziz gua,Ziziphus,guatemalensis,Ziziphus guatemalensis,Rhamnaceae,Sarcomphalus,guatemalensis,Sarcomphalus guatemalensis,(Hemsl.) Hauenschild,Synonym,Accepted,TRUE,Sar gua
+Ali edu,Alibertia,edulis,Alibertia edulis,Rubiaceae,Alibertia,edulis,Alibertia edulis,(Rich.) A.Rich. ex DC.,NA,Accepted,FALSE,Ali edu
+Cal can,Calycophyllum,candidissimum,Calycophyllum candidissimum,Rubiaceae,Calycophyllum,candidissimum,Calycophyllum candidissimum,(Vahl) DC.,NA,Accepted,FALSE,Cal can
+Cho spi,Chomelia,spinosa,Chomelia spinosa,Rubiaceae,Chomelia,spinosa,Chomelia spinosa,Jacq.,NA,Accepted,FALSE,Cho spi
+Gen ame,Genipa,americana,Genipa americana,Rubiaceae,Genipa,americana,Genipa americana,L.,NA,Accepted,FALSE,Gen ame
+Gue mac,Guettarda,macrosperma,Guettarda macrosperma,Rubiaceae,Guettarda,macrosperma,Guettarda macrosperma,Donn.Sm.,NA,Accepted,FALSE,Gue mac
+Ran mon,Randia,monantha,Randia monantha,Rubiaceae,Randia,monantha,Randia monantha,Benth.,NA,Accepted,FALSE,Ran mon
+Exo mex,Exostema,mexicanum,Exostema mexicanum,Rubiaceae,Solenandra,mexicana,Solenandra mexicana,(A.Gray) Borhidi,Synonym,Accepted,TRUE,Sol mex
+Cas arb,Casearia,arborea,Casearia arborea,Salicaceae,Casearia,arborea,Casearia arborea,(Rich.) Urb.,NA,Accepted,FALSE,Cas arb
+Cas cor,Casearia,corymbosa,Casearia corymbosa,Salicaceae,Casearia,corymbosa,Casearia corymbosa,Kunth,NA,Accepted,FALSE,Cas cor
+Zue gui,Zuelania,guidonia,Zuelania guidonia,Salicaceae,Casearia,laetioides,Casearia laetioides,(A.Rich.) Warb.,Synonym,Accepted,TRUE,Cas lae
+Cas syl,Casearia,sylvestris,Casearia sylvestris,Salicaceae,Casearia,sylvestris,Casearia sylvestris,Sw.,NA,Accepted,FALSE,Cas syl
+Cas tre,Casearia,tremula,Casearia tremula,Salicaceae,Casearia,tremula,Casearia tremula,(Griseb.) Griseb. ex C.Wright,NA,Accepted,FALSE,Cas tre
+Xyl fle,Xylosma,flexuosa,Xylosma flexuosa,Salicaceae,Xylosma,flexuosa,Xylosma flexuosa,(Kunth) Hemsl.,NA,Accepted,FALSE,Xyl fle
+All occ,Allophylus,occidentalis,Allophylus occidentalis,Sapindaceae,Allophylus,racemosus,Allophylus racemosus,Sw.,Synonym,Accepted,TRUE,All rac
+Sap sap,Sapindus,saponaria,Sapindus saponaria,Sapindaceae,Sapindus,saponaria,Sapindus saponaria,L.,NA,Accepted,FALSE,Sap sap
+Tho dec,Thouinidium,decandrum,Thouinidium decandrum,Sapindaceae,Thouinidium,decandrum,Thouinidium decandrum,(Bonpl.) Radlk.,NA,Accepted,FALSE,Tho dec
+Man chi,Manilkara,chicle,Manilkara chicle,Sapotaceae,Manilkara,chicle,Manilkara chicle,(Pittier) Gilly,NA,Accepted,FALSE,Man chi
+Sid cap,Sideroxylon,capiri,Sideroxylon capiri,Sapotaceae,Sideroxylon,capiri,Sideroxylon capiri,(A.DC.) Pittier,NA,Accepted,FALSE,Sid cap
+Sch sch,Schoepfia,schreberi,Schoepfia schreberi,Schoepfiaceae,Schoepfia,schreberi,Schoepfia schreberi,J.F.Gmel.,NA,Accepted,FALSE,Sch sch
+Sim gla,Simarouba,glauca,Simarouba glauca,Simaroubaceae,Simarouba,glauca,Simarouba glauca,DC.,NA,Accepted,FALSE,Sim gla
+Cec pel,Cecropia,peltata,Cecropia peltata,Urticaceae,Cecropia,peltata,Cecropia peltata,L.,NA,Accepted,FALSE,Cec pel
+Reh tri,Rehdera,trinervis,Rehdera trinervis,Verbenaceae,Rehdera,trinervis,Rehdera trinervis,(S.F.Blake) Moldenke,NA,Accepted,FALSE,Reh tri
+Gua san,Guaiacum,sanctum,Guaiacum sanctum,Zygophyllaceae,Guaiacum,sanctum,Guaiacum sanctum,L.,NA,Accepted,FALSE,Gua san
+unknown,unknown,unknown,unknown unknown,unknown,unknown,unknown,unknown,NA,NA,NA,FALSE,unknown

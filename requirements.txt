@@ -31,3 +31,19 @@ pymdown-extensions>=9.9.1
 colorama>=0.4
 regex>=2022.4.24
 requests>=2.26
+
+# Requirements for python if downloading data from ERA5
+cdsapi>=0.5.1
+numpy
+pandas
+xarray
+matplotlib
+statsmodels
+jupyterlab
+ipykernel
+openpyxl
+seaborn
+lxml
+netcdf4
+h5netcdf
+h5py

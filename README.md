@@ -5,22 +5,37 @@
 Welcome to the **[Your Team Name]** repository, an integral part of ESIIL and Earth Lab's Forest Carbon Codefest. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
 
 ## Our Project
-[Provide a brief overview of your project here.
+Provide a brief overview of your project here.
 
 ## Documentation
 - Access detailed documentation on our [GitHub Pages site](https://your-gh-pages-url/).
 
-
 ## Group Members
-- Member 1: Brief description
+- Member 1: German Vargas G.
 - Member 2: Brief description
-- ...
-- [Link to more detailed bios or profiles if available and desired.]
 
 ## Code Repository Structure
 - **Data Processing**: Scripts for cleaning, merging, and managing datasets.
 - **Analysis Code**: Scripts for data analysis, statistical modeling, etc.
-- **Visualization**: Code for creating figures, charts, and interactive visualizations.
+- **Python Code**: Jupyter workbooks for downloading climate re-analysis data from ERA5
+
+```
+ACG-GROWTH-FORECASTING
+
+├── code
+│   └── analysis
+│   ├── data-processing
+│   ├── functions
+│   └── python
+│       ├── Pynotebooks
+│       │   └── 
+│       └── Pysrc
+│           ├── __init__.py  <-- Empty file
+│           └── download_era5.py
+├── ACG-Growth-Forecasting.Rproj
+├── requirements.txt
+└── README.md
+```
 
 ## Meeting Notes and Agendas
 - Regular updates to keep all group members informed and engaged with the project's progress and direction.
@@ -47,4 +62,21 @@ Welcome to the **[Your Team Name]** repository, an integral part of ESIIL and Ea
 - **Review and Merge Workflow**: Document your process for reviewing and merging changes.
 - **Establish Communication Channels**: Set up channels like Slack or Discord for discussions.
 
-Remember, the goal is to make your repository clear, accessible, and useful for all current and future researchers. Happy researching!
+## Setup Instructions
+
+1. **Clone the Repository**: 
+   ```bash
+   git clone <repository-url>
+   cd ACG-Growth-Forecasting
+   ```
+
+2. **Install Dependencies**: 
+    Recommended quick start (venv + pip):
+    ```bash
+    python3 -m venv .venv
+    source .venv/bin/activate
+    python -m pip install --upgrade pip
+    pip install -r requirements.txt
+    ```
+3. **Prepare Access to Data**: 
+   Make sure you have cloud storage as part of your file system

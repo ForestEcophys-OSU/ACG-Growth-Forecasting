@@ -31,5 +31,3 @@ March 12-14, 2024
 - [Guidelines for intellectual contributions and credit](https://drive.google.com/file/d/1WcjV412EzCxohNtjFtca-o2Gpf36ISAX/view?usp=sharing)
 
 
-*This event is hosted by ESIIL and the CU Boulder CIRES Earth Lab. It is funded by the National Science Foundation (via awards numbers DBI-2153040, DEB-1846384, and DEB-2017889), and subject to the NSF’s terms and conditions*
-
