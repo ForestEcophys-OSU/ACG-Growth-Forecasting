@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/761899116.svg)](https://zenodo.org/doi/10.5281/zenodo.11167012)
+[![DOI](https://zenodo.org/badge/1242719459.svg)](https://doi.org/10.5281/zenodo.20637315)
 
 # Tropical Dry Forest Tree Growth Forecasting (TDF-Growth)
 
