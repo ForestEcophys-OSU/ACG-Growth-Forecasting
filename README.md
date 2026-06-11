@@ -1,23 +1,22 @@
 [![DOI](https://zenodo.org/badge/761899116.svg)](https://zenodo.org/doi/10.5281/zenodo.11167012)
 
-# [Your Team Name]
+# Tropical Dry Forest Tree Growth Forecasting (TDF-Growth)
 
-Welcome to the **[Your Team Name]** repository, an integral part of ESIIL and Earth Lab's Forest Carbon Codefest. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
+Welcome to the **TDF-Growth* repository, an integral part of the research at the [Forest Ecophys Lab](https://forestecophys.com/). This repository is the central hub for our team, encompassing our project overview, codebase, field protocols and more...
 
 ## Our Project
-Provide a brief overview of your project here.
+The goal of our project is to produce seasonal forecast of tree growth for an array of tropical dry forest tress.
 
 ## Documentation
 - Access detailed documentation on our [GitHub Pages site](https://your-gh-pages-url/).
 
-## Group Members
-- Member 1: German Vargas G.
-- Member 2: Brief description
+## Author
+- German Vargas G., Oregon State University
 
 ## Code Repository Structure
 - **Data Processing**: Scripts for cleaning, merging, and managing datasets.
 - **Analysis Code**: Scripts for data analysis, statistical modeling, etc.
-- **Python Code**: Jupyter workbooks for downloading climate re-analysis data from ERA5
+- **Python Code**: Jupyter workbooks for downloading climate re-analysis data from ERA5.
 
 ```
 ACG-GROWTH-FORECASTING
@@ -27,11 +26,8 @@ ACG-GROWTH-FORECASTING
 │   ├── data-processing
 │   ├── functions
 │   └── python
-│       ├── Pynotebooks
-│       │   └── 
-│       └── Pysrc
-│           ├── __init__.py  <-- Empty file
-│           └── download_era5.py
+│       └── Pynotebooks
+│           └── downloadERA5.ipynb
 ├── ACG-Growth-Forecasting.Rproj
 ├── requirements.txt
 └── README.md
@@ -41,14 +37,10 @@ ACG-GROWTH-FORECASTING
 - Regular updates to keep all group members informed and engaged with the project's progress and direction.
 
 ## Contributing to This Repository
-- Contributions from all group members are welcome.
 - Please adhere to these guidelines:
   - Ensure commits have clear and concise messages.
-  - Document major changes in the meeting notes.
+  - Document major changes as annotations in the code.
   - Review and merge changes through pull requests for oversight.
-
-## Getting Help
-- If you encounter any issues or have questions, please refer to the [ESIIL Support Page](https://esiil-support-page-url/) or contact the repository maintainers directly.
 
 ## Customize Your Repository
 - **Edit This Readme**: Update with information specific to your project.
